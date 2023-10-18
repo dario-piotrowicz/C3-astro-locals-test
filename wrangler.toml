@@ -1,0 +1,6 @@
+# Note: Pages doesn't use this wrangler.toml file, but it is required
+#       by astro to make the bindings available in dev mode
+
+[[kv_namespaces]]
+binding = "MY_KV"
+id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
